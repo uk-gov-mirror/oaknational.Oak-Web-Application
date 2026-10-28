@@ -18,7 +18,6 @@ const CopyrightLicence = (
           iconName="external"
           isTrailingIcon
           data-testid="external-link-icon"
-          aria-label="Open Government Licence version 3.0 (opens in a new tab)"
         >
           Open Government Licence version 3.0
         </OakLink>
